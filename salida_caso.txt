@@ -1,0 +1,12 @@
+﻿
+TABLA DE SIMBOLOS
+NOMBRE      TIPO     AMBITO    LINEA
+a           int      global    1
+nombre      string   global    2
+b           int      bloque 1  4
+
+ERRORES (4)
+ - Linea 5: [E4 tipos incompatibles] no se puede asignar string a 'b' de tipo int
+ - Linea 7: [E1 no declarada] la variable 'c' no esta declarada
+ - Linea 7: [E2 fuera de ambito] 'b' solo existe dentro de un bloque ya cerrado
+ - Linea 8: [E3 redeclaracion] 'a' ya fue declarada en este ambito

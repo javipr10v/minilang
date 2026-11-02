@@ -1,0 +1,11 @@
+﻿CASO                                  ESPERADO  OBTENIDO  RESULTADO
+V1 declaraciones y expresiones        0         0         OK
+V2 sombreado en bloque                0         0         OK
+V3 concatenacion de strings           0         0         OK
+E1 programa caso del PDF              4         4         OK
+E2 declaracion con tipo incorrecto    1         1         OK
+E3 redeclaracion                      1         1         OK
+E4 operador invalido string - int     1         1         OK
+E5 variable fuera de ambito           1         1         OK
+
+8/8 casos correctos
